@@ -2,7 +2,7 @@
 
 <!-- ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/96066261/219108667-2139873f-3ddb-4864-afa1-c687d976d923.gif) -->
 
-<img src = "https://github.com/KartikeyJadli/KartikeyJadli/blob/main/ezgif.com-video-to-gif.gif" height = "700px" width = "1000px">
+<img src = "https://github.com/KartikeyJadli/KartikeyJadli/blob/main/ezgif.com-video-to-gif.gif" height = "600px" width = "1000px">
 
 # HELLO EVERYONE!!! AND WELCOME TO MY PROFILE 
 
