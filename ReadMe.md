@@ -4,10 +4,14 @@
 
 
 
-# HELLO GUYS!!! AND WELCOME TO MY PROFILE 
+# HELLO EVERYONE!!! AND WELCOME TO MY PROFILE 
 
 
 ## About me
 **1.** A Computer Science student who has some big dreams and working to achieve them.
 
 **2.** Currently developing his coding and soft skills.
+
+**3.** My main skills revolve around Machine Learning, Python, C++ and Web Development.
+
+**4.** I am also an active programmer testing my skills on [Leetcode](https://leetcode.com/Kartik1602/) as well as some other platforms.
