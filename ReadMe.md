@@ -25,3 +25,11 @@
 
 ### Knowledge About
 ![image](https://user-images.githubusercontent.com/96066261/219841866-133e3ef5-4c17-47c8-9910-f9201389a99b.png)
+
+
+# For more 
+<ol> 
+ <li>You can visit my [Leetcode](https://leetcode.com/Kartik1602/) profile and view the solutions for some problems.</li>
+ <li>You can also share me some ideas if they come up on my LinkedIn account: https://www.linkedin.com/in/kartikey-jadli-990301217</li>
+ <li>Also do visit my projects from the below pinned sections.</li>
+</ol>
