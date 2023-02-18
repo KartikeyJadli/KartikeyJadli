@@ -34,5 +34,6 @@
  <li>Also do visit my projects from the below pinned sections.</li>
 </ol>
 
-![Luffy Wano GIF - Luffy Wano One Piece - Discover   Share GIFs](https://user-images.githubusercontent.com/96066261/219843482-042f3682-146d-4086-9d7e-c965672de0a2.gif)
+![Luffy Wano GIF - Luffy Wano One Piece - Discover   Share GIFs](https://user-images.githubusercontent.com/96066261/219843944-5a1e9250-ec3c-430c-8e03-65f1a53c1f00.gif)
+
 
