@@ -20,7 +20,9 @@
 
 ### Languages
 
-![image](https://user-images.githubusercontent.com/96066261/219604216-33945bf3-2e44-40ce-936b-e14da3ca2cac.png)          ![image](https://user-images.githubusercontent.com/96066261/219604337-827a2bf1-ba3c-4be4-b4af-960fa63e5888.png)
+![image](https://user-images.githubusercontent.com/96066261/219604216-33945bf3-2e44-40ce-936b-e14da3ca2cac.png)          ![image](https://user-images.githubusercontent.com/96066261/219604337-827a2bf1-ba3c-4be4-b4af-960fa63e5888.png)           ![image](https://user-images.githubusercontent.com/96066261/219844035-cffe2d34-0b10-4e5d-8fcf-64cbe284eeb1.png)           ![image](https://user-images.githubusercontent.com/96066261/219844049-b3ef5180-48c2-4dc3-8052-d0475221f011.png)
+
+
 
 
 ### Knowledge About
