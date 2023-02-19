@@ -42,3 +42,5 @@
 
 [![GitHub KartikeyJadli](https://img.shields.io/github/followers/KartikeyJadli?label=follow&style=social)](https://github.com/KartikeyJadli)
 ![](https://komarev.com/ghpvc/?username=KartikeyJadli&color=blueviolet)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KartikeyJadli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
