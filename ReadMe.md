@@ -15,13 +15,17 @@
 
 **4.** I am also an active programmer testing my skills on [Leetcode](https://leetcode.com/Kartik1602/) as well as some other platforms.
 
+<!-- [![KartikeyJadli]](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/Vaibhav_69/)](https://leetcode.com/Kartik1602/) -->
 
 ## Skills
 
 ### Languages
-
-![image](https://user-images.githubusercontent.com/96066261/219604216-33945bf3-2e44-40ce-936b-e14da3ca2cac.png)          ![image](https://user-images.githubusercontent.com/96066261/219604337-827a2bf1-ba3c-4be4-b4af-960fa63e5888.png)           ![image](https://user-images.githubusercontent.com/96066261/219844035-cffe2d34-0b10-4e5d-8fcf-64cbe284eeb1.png)           ![image](https://user-images.githubusercontent.com/96066261/219844049-b3ef5180-48c2-4dc3-8052-d0475221f011.png)
-
+<h3>Programming Languauges</h3>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
+<img align="left" alt="CPP" width="30px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/>
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" alt="Java" width="32px" src="https://plumbr.io/app/uploads/2019/06/java.png"/>
+<br/><br/>
 
 
 
