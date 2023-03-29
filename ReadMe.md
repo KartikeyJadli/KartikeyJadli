@@ -48,10 +48,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KartikeyJadli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<h2>Leetcode stats:</h2>
+<!-- <h2>Leetcode stats:</h2>
 <rect xmlns="http://www.w3.org/2000/svg" class="background" stroke-width="1" width="499" height="199" x="0.5" y="0.5" rx="4"/>
-[![Leetcode Stats](https://leetcode.card.workers.dev/Kartik1602?theme=dark&font=baloo&extension=null)](https://leetcode.com/Kartik1602)
-
+<div>[![Leetcode Stats](https://leetcode.card.workers.dev/Kartik1602?theme=dark&font=baloo&extension=null)](https://leetcode.com/Kartik1602)></div> -->
 
 
 <h1> SEE YOU AGAIN!! </h1>
